@@ -1,0 +1,8 @@
+/* Write your CSS here */
+.home-container {
+  height: 90vh;
+  text-align: center;
+}
+.home {
+  width: 800px;
+}
